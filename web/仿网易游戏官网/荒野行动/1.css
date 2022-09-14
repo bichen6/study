@@ -1,0 +1,248 @@
+@charset "utf-8";
+/* CSS Document */
+.q0{width: 1500px;
+    height: 3550px;}
+.q1{width: 1500px;
+    height: 55px;}
+.q2{width: 180px;
+    height: 55px;
+    background-color: #FF0004;
+    padding-top: 15px;
+    box-sizing: border-box;
+    float: left;
+    color: #FFFFFF;}
+.q3{width: 1200px;
+    height: 55px;
+    float: left;}
+.q4{width: 150px;
+    height: 55px;
+    background-image: url("images/log.png");
+    margin-left: 500px;}
+.q5{width: 110px;
+    height: 55px;
+    border-left: 1px solid rgba(126,126,126,1.00);
+    float: left;
+    padding-top: 20px;
+    box-sizing: border-box;}
+.q6{width: 1500px;
+   height: 844px;
+   border:1px solid rgba(255,255,255,0);
+   background-image:url("images/0.jpg");}
+.jj{font-size: 10px;
+   text-decoration: none;
+    color:#686868;}
+.jj:hover{color: #FF0004;}
+.q5:hover{ border-bottom: 1px solid #FF0004;}
+.q7{width: 180px;
+    height: 47px;
+    background-image: url("images/btn-home-h_9e080af.png");
+    margin-top: 40px;
+    margin-left: 1300px;}
+.dd{width: 160px;
+    height: 40px;
+    background-image: url("images/fx.png");
+    float: left;}
+.q8{float: left;
+    margin-left: 1250px;
+    color: #FFFFFF;
+    margin-top: 10px;}
+.q9{ width: 29px;
+     height: 84px;
+	 background-image:url("images/slide-in_d361c27.png");
+     margin-left: 1270px;
+     float: left;
+     margin-top: 210px;}
+.q10{ width: 180px;
+      height: 400px;
+      float: left;
+      margin-left: 5px;
+      margin-top: 200px;}
+.aa1{ width: 170px;
+      height: 170px;
+      background-image: url("images/59f3084e143cfaaa925b601cF1kUrWfx.png");}
+.aa2{ width: 170px;
+      height: 50px;
+      background-image: url("images/btn_ios_f4a55b5.png");
+      margin-top: 5px;}
+.aa3{ width: 170px;
+      height: 50px;
+      background-image: url("images/btn_and_83cd8ab.png");
+      margin-top: 5px;}
+.aa4{ width: 170px;
+      height: 50px;
+      background-image: url("images/btn_win_41e3873.png");
+      margin-top: 5px;}
+.aa5{ width: 170px;
+      height: 50px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image: url("images/btn_mac_80f4491.png");
+      margin-top: 5px;}
+
+
+*{padding: 0; margin: 0; border: 0; list-style: none;}
+.jump{
+width: 170px;
+margin: -245px auto;
+}
+.ppp{ width: 160px;
+      height: 2px;
+      background-color:#FFEE95;}
+.jump li{
+width: 170px;
+height: 2px;
+float: left;
+position: relative;
+}
+.jump li:nth-child(2){
+margin: 0 90px;
+}
+.jump li .ppp{
+background:rgba(255,251,147,1.00);
+box-shadow:0 0 10px rgba(0,0,0,0.3);
+animation: jump 3s ease infinite;
+}
+@keyframes jump{
+0%{ transform:translateY(0) scale(1,1);}
+50%{transform:translateY(-140px) scale(0.97,1.03);}
+100%{transform:translateY(0) scale(1,1);}
+}
+
+@keyframes shadow{
+0%{transform: scale(1); opacity: 1; filter:blur(10px);}
+50%{transform: scale(0.8); opacity:0.7; filter:blur(20px);}
+100%{transform: scale(1); opacity: 1; filter:blur(10px);}
+}
+.w1{ width:139px;
+      height: 155px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image:url("images/arrow_b4b53c1.png");
+      margin-left: 680px;
+	  margin-top: -240px;
+      float: left;
+      position: relative;}
+
+*{padding: 0; margin: 0; border: 0; list-style: none;}
+
+.w1:nth-child(2){
+margin: 0 90px;
+}
+.w1{
+background-image:url("images/arrow_b4b53c1.png");
+animation: w1 4s ease infinite;
+}
+@keyframes w1{
+0%{ transform:translateY(0) scale(1,1);}
+50%{transform:translateY(40px) scale(1,1.03);}
+100%{transform:translateY(0) scale(1,1);}
+}
+
+@keyframes shadow{
+0%{transform: scale(1); opacity: 1; filter:blur(10px);}
+50%{transform: scale(0.8); opacity:0.7; filter:blur(20px);}
+100%{transform: scale(1); opacity: 1; filter:blur(10px);}
+}
+
+.bb1{ width: 1500px;
+      height: 844px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image:url("images/page2_71a4b2c.jpg");}
+.ll1{ width: 810px;
+      height:445px;
+      border: 1px solid rgba(255,255,255,0.1);
+	  margin-left: 343px;
+      background-image: url("images/1.jpg");
+      margin-top:180px;}
+.ll2{ width:130px;
+      height: 130px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image: url("images/icon-play_e450a1c.png");
+      margin-left: 330px;
+      margin-top: 170px;}
+.ll3{ width: 860px;
+      height:90px;
+      border: 1px solid rgba(255,255,255,0);
+	  margin-left: 320px;
+      margin-top: 50px;}
+.bb2{ width: 1500px;
+      height: 844px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image:url("images/page3_1b45da1.jpg");}
+.bb3{ width: 1500px;
+      height: 844px;
+      border: 1px solid rgba(255,255,255,0);
+      background-image:url("images/page4_cb2c8ad.jpg");}
+
+.wz{ width: 1500px;
+     height: 100px;
+     background-color:#000000;}
+.pa{ color:#8D8D8D;
+   line-height: 30px;
+   font-size: 19px;}
+.wzhz1{ width: 430px;
+        height: 200px;
+        margin-top: 200px;
+        margin-left: 350px;}
+.wzhz2{ width: 430px;
+        height: 200px;
+        margin-left: 750px;}
+.wzhz3{ width: 430px;
+        height: 200px;
+        margin-top: -30px;
+        margin-left: 350px;}
+.wza{ color: #fdc529;
+      font-size: 30px;
+      margin-top: 30px;}
+.wzb{ color:#b8b8b9;
+      margin-top: 20px;}
+
+.ll4{ width: 810px;
+      height:445px;
+	  margin-left: 343px;
+      background-image: url("images/2.jpg");
+      margin-top:150px;}
+.wz-wz{width: 780px;
+      height:200px;
+      margin: 0 auto;}
+.wz-top{ color:#b8b8b9;
+         font-size: 23px;
+         text-align: center;
+         margin-top: 50px;}
+.wz-xia{ color:#b8b8b9;
+         font-size: 20px;
+         text-align: center;}
+.wz-lx{ width: 900px;
+        height: 100px;
+        margin: 0 auto;}
+.log-a{ width: 300px;
+        height: 100px;
+        padding-top: 30px;
+        box-sizing: border-box;
+        float: left;}
+.yqlj{  width: 540px;
+        height: 100px;
+	    float: left;
+        padding-top: 30px;
+        box-sizing: border-box;
+        color: #FFFFFF;}
+.clj{ font-size: 10px;
+      color: #FFFFFF;
+      text-decoration: none;}
+.clj:hover{ text-decoration: underline;}
+.p-gs{ color: #FFFFFF;
+       font-size:10px;
+       margin-top: 5px;
+       float: left;}
+.bj-wz{ color: #FFFFFF;
+        font-size: 10px;
+        background-color: #610000;
+        float:right;
+        height: 20px;
+        padding-top: 5px;}
+.bj-wz:hover{ text-decoration: underline;}
+
+
+
+
+
+
+
